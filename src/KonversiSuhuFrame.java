@@ -74,6 +74,8 @@ public class KonversiSuhuFrame extends javax.swing.JFrame {
 
         jLabel3.setText("Hasil Konversi");
 
+        jTextField2.setEditable(false);
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
@@ -224,7 +226,7 @@ public class KonversiSuhuFrame extends javax.swing.JFrame {
             }
 
             // Menampilkan hasil konversi
-            jTextField2.setText("Hasil: " + hasil + " " + suhuTujuan);
+            jTextField2.setText(hasil + " " + suhuTujuan);
 
         } catch (NumberFormatException ex) {
             JOptionPane.showMessageDialog(this, "Masukkan angka yang valid!", "Error", JOptionPane.ERROR_MESSAGE);
