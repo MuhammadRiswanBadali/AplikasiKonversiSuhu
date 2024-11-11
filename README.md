@@ -1,7 +1,7 @@
 # BIODATA
-NAMA  : Muhammad Riswan Badali
-NPM   : 2210010039
-KELAS : REG PAGI 5B BJB
+NAMA  : Muhammad Riswan Badali<br>
+NPM   : 2210010039<br>
+KELAS : REG PAGI 5B BJB<br>
 
 # DETAIL TUGAS YANG DIBERIKAN
 Aplikasi Konversi Suhu<br>
@@ -17,4 +17,8 @@ Aplikasi Konversi Suhu<br>
 5. Variasi :<br>
    - Tambahkan skala suhu lain seperti Reamur dan Kelvin.<br>
    - Tambahkan ItemListener pada JRadioButton untuk memilih arah konversi.<br>
-   - Implementasikan konversi otomatis saat nilai input berubah
+   - Implementasikan konversi otomatis saat nilai input berubah.<br>
+
+   # FITUR PADA APLIKASI YANG DIBUAT
+   - Dapat mengkonversikan suhu sesuai yang diinginkan, dengan memasukkan angka pada kolom yang disediakan, dan memilih satuan suhu awal melalui radio button, dilanjutkan memilih mau dikonversikan kesatuan suhu yang diinginkan melalui combo box.<br>
+   
