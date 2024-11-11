@@ -26,3 +26,6 @@ Aplikasi Konversi Suhu<br>
 - Ada Button Clear untuk membersihkan inputan dan hasil konversi
    
 # TAMPILAN APLIKASI YANG DIBUAT
+1. Tanpilan awal aplikasi<br>
+<img width="315" alt="aplikasi konversi suhu" src="https://github.com/user-attachments/assets/c5033eb6-eb20-4631-8eb0-fa5d622d32d6"><br>
+
