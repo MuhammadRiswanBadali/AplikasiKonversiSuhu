@@ -28,11 +28,11 @@ Aplikasi Konversi Suhu<br>
 # TAMPILAN APLIKASI YANG DIBUAT
 1. Tanpilan awal aplikasi<br>
 <img width="315" alt="aplikasi konversi suhu" src="https://github.com/user-attachments/assets/c5033eb6-eb20-4631-8eb0-fa5d622d32d6"><br>
-2. Memasukkan angka lalu memilih suhu awal dan pilih konversi suhu sesuai yang diingikan, disini saya memasukkan angka 12, lalu memilih suhu awal celcius dan memilih konversi suhu ke reamur.<br>
+2. Memasukkan angka lalu memilih suhu awal dan pilih konversi suhu sesuai yang diingikan, disini saya memasukkan angka 12, lalu memilih suhu awal celcius dan memilih konversi suhu ke reamur. setelah itu klik button konversi maka hasil akan keluar.<br>
 <img width="316" alt="aplikasi konversi suhu hasil" src="https://github.com/user-attachments/assets/03c02f0e-4615-483a-be48-e81f495eca89"><br>
-3. Mencoba memasukkan hurup<br>
+3. Mencoba memasukkan hurup setelah itu klik button konversi<br>
 <img width="511" alt="aplikasi konversi suhu hasil2" src="https://github.com/user-attachments/assets/cf913e95-0afa-48a5-8584-ca38497eded9"><br>
-4. Mencoba tidak memilih satuan suhu awal<br>
+4. Mencoba tidak memilih satuan suhu awal setelah itu klik button konversi<br>
 <img width="492" alt="aplikasi konversi suhu hasil3" src="https://github.com/user-attachments/assets/92f9b534-4b81-4b2f-8921-37f3e3db8a63"><br>
 
 
