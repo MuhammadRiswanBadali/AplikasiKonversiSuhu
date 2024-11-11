@@ -20,9 +20,9 @@ Aplikasi Konversi Suhu<br>
    - Implementasikan konversi otomatis saat nilai input berubah.<br>
 
    # FITUR PADA APLIKASI YANG DIBUAT
-   - Dapat mengkonversikan suhu sesuai yang diinginkan (Celcius, Fahrenheit, Reamur, Kelvin), dengan memasukkan angka pada kolom yang disediakan, dan memilih satuan suhu awal melalui radio button, dilanjutkan memilih mau dikonversikan kesatuan suhu yang diinginkan melalui combo box.<br>
-   - Menampilakn pesan error jika pada bagian kolom inputan angka, diinputkan dengan hurup.<br>
-   - Menampilkan pesan error jika suhu awal tidak dipilih.
-   - Ada Button Clear untuk membersihkan inputan dan hasil konversi
+- Dapat mengkonversikan suhu sesuai yang diinginkan (Celcius, Fahrenheit, Reamur, Kelvin), dengan memasukkan angka pada kolom yang disediakan, dan memilih satuan suhu awal melalui radio button, dilanjutkan memilih mau dikonversikan kesatuan suhu yang diinginkan melalui combo box.<br>
+- Menampilakn pesan error jika pada bagian kolom inputan angka, diinputkan dengan hurup.<br>
+- Menampilkan pesan error jika suhu awal tidak dipilih.
+- Ada Button Clear untuk membersihkan inputan dan hasil konversi
    
 # TAMPILAN APLIKASI YANG DIBUAT
