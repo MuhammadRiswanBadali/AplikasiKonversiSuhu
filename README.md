@@ -21,7 +21,7 @@ Aplikasi Konversi Suhu<br>
 
    # FITUR PADA APLIKASI YANG DIBUAT
 - Dapat mengkonversikan suhu sesuai yang diinginkan (Celcius, Fahrenheit, Reamur, Kelvin), dengan memasukkan angka pada kolom yang disediakan, dan memilih satuan suhu awal melalui radio button, dilanjutkan memilih mau dikonversikan kesatuan suhu yang diinginkan melalui combo box.<br>
-- Menampilakn pesan error jika pada bagian kolom inputan angka, diinputkan dengan hurup.<br>
+- Menampilakn pesan error jika pada bagian kolom inputan angka, diinputkan dengan hurup atau masih kosong.<br>
 - Menampilkan pesan error jika suhu awal tidak dipilih.
 - Ada Button Clear untuk membersihkan inputan dan hasil konversi
    
@@ -32,9 +32,11 @@ Aplikasi Konversi Suhu<br>
 <img width="316" alt="aplikasi konversi suhu hasil" src="https://github.com/user-attachments/assets/03c02f0e-4615-483a-be48-e81f495eca89"><br>
    - contoh lain<br>
      <img width="335" alt="aplikasi konversi suhu hasil4" src="https://github.com/user-attachments/assets/c016d827-c387-4c2f-8caa-8355c1faedcc"><br>
-3. Mencoba memasukkan hurup setelah itu klik button konversi<br>
+4. Tidak memasukkan angka suhu, setelah itu klik button konversi.<br>
+<img width="527" alt="aplikasi konversi suhu hasil5" src="https://github.com/user-attachments/assets/63ab3fca-d889-4270-bfe9-bcce2e7fa188"><br>
+3. Mencoba memasukkan hurup, setelah itu klik button konversi<br>
 <img width="511" alt="aplikasi konversi suhu hasil2" src="https://github.com/user-attachments/assets/cf913e95-0afa-48a5-8584-ca38497eded9"><br>
-4. Mencoba tidak memilih satuan suhu awal setelah itu klik button konversi<br>
+4. Mencoba tidak memilih satuan suhu awal, setelah itu klik button konversi<br>
 <img width="492" alt="aplikasi konversi suhu hasil3" src="https://github.com/user-attachments/assets/92f9b534-4b81-4b2f-8921-37f3e3db8a63"><br>
 
 
